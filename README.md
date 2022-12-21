@@ -1,7 +1,8 @@
-<h1> Hi people 🙂 </h1>
+<h1> Hi people! 🙂 </h1>
 
 <p aling="center" width="300">
   <img align="center" width="200" src="https://user-images.githubusercontent.com/71798858/208800247-ca5666b0-6365-4305-bca6-ec3b95da6cdd.jpeg"/>
+  <h2 align"center"> I am Airin Ishbel 💁🏻‍♀️ </h3>
 
 <!--
 **AirinIshbelSaavedraFlores/AirinIshbelSaavedraFlores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
