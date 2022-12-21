@@ -1,8 +1,16 @@
-<h1> Hi people! 🙂 </h1>
+<h1 align="center"> Hi people! 🙂 </h1>
 
-<p aling="center" width="300">
-  <img align="center" width="200" src="https://user-images.githubusercontent.com/71798858/208800247-ca5666b0-6365-4305-bca6-ec3b95da6cdd.jpeg"/>
-  <h2 align"center"> I am Airin Ishbel 💁🏻‍♀️ </h3>
+<p align="center" width="300">
+  <img align="center" width="250" src="https://user-images.githubusercontent.com/71798858/208814488-70fce423-b84f-4661-bcf8-8ec9da5992c7.jpeg"/>
+  
+  <h2 align="center"> I am Airin Ishbel 💁🏻‍♀️</h2>
+  </p>
+  
+<p align="center"> I'm future <strong> Mobile Developer📱</strong> <br />These are my social networks! 😉</p>
+
+<p align="center">
+   <a href="https://www.linkedin.com/in/airin-ishbel/"/><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 <!--
 **AirinIshbelSaavedraFlores/AirinIshbelSaavedraFlores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
