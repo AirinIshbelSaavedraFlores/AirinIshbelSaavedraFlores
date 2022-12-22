@@ -26,6 +26,10 @@
   
   <h3 align="center">🤓 I’m currently learning</h3>
   
+  <div align="center">
+	<img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="200" height="200">
+    
+</div>
 <!--
 **AirinIshbelSaavedraFlores/AirinIshbelSaavedraFlores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
