@@ -27,7 +27,7 @@
   <h3 align="center">🤓 I’m currently learning</h3>
   
   <div align="center">
-	<img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="200" height="200">
+	<img src="https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif" width="100" height="100">
     
 </div>
 <!--
