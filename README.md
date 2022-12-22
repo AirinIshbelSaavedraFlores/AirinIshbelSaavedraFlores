@@ -26,17 +26,33 @@
   
   <h3 align="center">🤓 I’m currently learning</h3>
   
-  <div align="center">
+  <div align="left">
 	<img src="https://www.androidauthority.com/wp-content/uploads/2019/08/new-android-logo-2019-robot-head-reactions-animated-2.gif" width="100" height="100">
+	<img src="https://user-images.githubusercontent.com/71798858/209196844-751bda8b-35fc-4573-8d3b-ec5b8be5129c.png" width="100" height="100">
     
 </div>
+	
+  <h3 align="center"> 🖥️ Skills</h3>
+	<p align="left">Editors and Operating Systems: </p>
+	
+
+		
+<img src="https://user-images.githubusercontent.com/71798858/209199615-ab9d19a9-5801-450e-8f46-92efed0f77af.png" width="70" height="70">
+	<img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/640px-IntelliJ_IDEA_Icon.svg.png" width="70" height="70">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="70" height="70">
+	
+	
+<p align="left">Software: </p>
+	<img src="https://user-images.githubusercontent.com/71798858/209206400-1af5213d-85a1-4ac7-af9e-ee524fe6da4e.png" width="70" height="70">
+	<img src="https://user-images.githubusercontent.com/71798858/209206561-2bff6f00-dd8b-4fa0-a29c-d35af7879a3b.png" width="70" height="70">
+	<img src="https://img2.freepng.es/20180328/hde/kisspng-programming-language-data-analysis-computer-progra-r-5abbf2c1918c67.3775356915222668175962.jpg" width="70" height="70">
+	
 <!--
 **AirinIshbelSaavedraFlores/AirinIshbelSaavedraFlores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
