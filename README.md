@@ -7,8 +7,8 @@
   </p>
   
   
-  <h2 align="center"> Computer Systems Student UVEG  | Trainee Data Lake | Developer </h2>
-<h3 align="center"> I'm  future<strong> Mobile Developer📱</strong> <br />These are my social networks! 😉</h3>
+  <h2 align="center"> Data Engineer </h2>
+<h3 align="center"> </strong> <br />These are my social networks! 😉</h3>
 
 <p align="center">
    <a href="https://www.linkedin.com/in/airin-ishbel/"/><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
