@@ -48,7 +48,9 @@
 	<img src="https://img2.freepng.es/20180328/hde/kisspng-programming-language-data-analysis-computer-progra-r-5abbf2c1918c67.3775356915222668175962.jpg" width="70" height="70">
 	
 <p align="left">Database: </p>
-	<img src="https://user-images.githubusercontent.com/71798858/209206400-1af5213d-85a1-4ac7-af9e-ee524fe6da4e.png" width="70" height="70">
+	<img src="https://user-images.githubusercontent.com/71798858/231907147-8f24d8ec-cbe8-45b1-8f7d-233f132b5ef2.png" width="70" height="70">
+	<img src="https://user-images.githubusercontent.com/71798858/231907393-8ec880dd-170a-42ec-b345-b78711324eda.png" width="70" height="70">
+	<img src="https://user-images.githubusercontent.com/71798858/231907715-4bcb9943-ee41-4cb1-9c90-cfb0829b160b.png" width="70" height="70">
 	
 	
 <!--
