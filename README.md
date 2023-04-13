@@ -1,4 +1,3 @@
-<img src="https://www.elgrupoinformatico.com/static/Manuales/2019/08/cloud-1300x650.jpg"/>
 
 <p align="center" width="300">
   <img align="center" width="150" src="https://user-images.githubusercontent.com/71798858/208827535-3fd5d938-d658-48c2-bdd2-7acde521692d.png"/>
