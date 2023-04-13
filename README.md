@@ -27,7 +27,7 @@
   
   <div align="left">
 	<img src="https://as1.ftcdn.net/v2/jpg/04/08/60/04/1000_F_408600439_xw9jqiw4CVk4aIgPSVbs36X4ckAemmra.jpg" width="100" height="100">
-	<img src="https://as2.ftcdn.net/v2/jpg/05/57/67/23/1000_F_557672362_kyxGCVD5m4iYaYitsBROR8RU5BA7eabX.jpg" width="100" height="100">
+	<img src="![image](https://user-images.githubusercontent.com/71798858/231653490-00ab7e5f-c92b-416d-9ed8-7c1e8f85cae4.png)" width="100" height="100">
     
 </div>
 	
@@ -45,6 +45,10 @@
 	<img src="https://user-images.githubusercontent.com/71798858/209206400-1af5213d-85a1-4ac7-af9e-ee524fe6da4e.png" width="70" height="70">
 	<img src="https://user-images.githubusercontent.com/71798858/209206561-2bff6f00-dd8b-4fa0-a29c-d35af7879a3b.png" width="70" height="70">
 	<img src="https://img2.freepng.es/20180328/hde/kisspng-programming-language-data-analysis-computer-progra-r-5abbf2c1918c67.3775356915222668175962.jpg" width="70" height="70">
+	
+<p align="left">Database: </p>
+	<img src="https://user-images.githubusercontent.com/71798858/209206400-1af5213d-85a1-4ac7-af9e-ee524fe6da4e.png" width="70" height="70">
+	
 	
 <!--
 **AirinIshbelSaavedraFlores/AirinIshbelSaavedraFlores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
