@@ -1,4 +1,4 @@
-<img src="https://w7.pngwing.com/pngs/111/367/png-transparent-cloud-computing-technology-remote-backup-service-cloud-storage-cloud-computing-thumbnail.png](https://img2.freepng.es/20180426/wxw/kisspng-web-application-development-cloud-computing-comput-5ae18a90c09ea1.385914261524730512789.jpg"/>
+<img src="https://itelligent.es/wp-content/uploads/cloud-computing-aws-azure-google-940x460.png"/>
 
 <p align="center" width="300">
   <img align="center" width="150" src="https://user-images.githubusercontent.com/71798858/208827535-3fd5d938-d658-48c2-bdd2-7acde521692d.png"/>
