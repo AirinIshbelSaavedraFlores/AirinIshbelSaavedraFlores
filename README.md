@@ -14,12 +14,12 @@
    <a href="#"/><img alt="Outlook" src="https://img.shields.io/badge/airinishbelsavflor@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </p>
 
-<h3 align="Center">About me 👇🏻</h3> <br /> <li> Mentor at Bécalos, advising young university students in the STEM area, and a mentor at Incluyeme.com, where I guide people with disabilities to the world of work and help them improve their technical and soft skills.
+<h3 align="Center">About me 👇🏻</h3> <br /> <li> Mentor in the steam area helping to improve soft skills as well as technical skills. 
  <p> <li> Ambassador in Tecnolochicas where I teach young people how to design their own website, how to create mobile applications, basic knowledge of robotics and artificial intelligence.</p>
-<p> <li> I am passionate about data analysis and the use of technology for decision making, so I always try to have time to learn something new related. </p>
+<p> <li> I am passionate about data and the use of technology for decision making, so I always try to have time to learn something new related. </p>
   <h3 align="center">👩🏻‍💻 I’m currently working on</h3>
   <img align="left" alt="img" width="300" src="https://www.capgemini.com/es-es/wp-content/uploads/sites/16/2018/04/capgemini_logo_color_rgb.png" >
-  <p > <li>My role is trainee data lake, I use some programming languages: Python and R, besides using azure cloud.</p>
+  <p > <li>My role is Data Engineer, I use some programming languages: Python and R, besides using azure cloud.</p>
   <p> <li>I develop capabilities and create solutions that create impact with data, spanning data engineering, along with data science, business analytics and more.</p>
   
   
