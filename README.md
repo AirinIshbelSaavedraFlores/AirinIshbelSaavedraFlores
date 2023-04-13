@@ -27,8 +27,8 @@
   
   <div align="left">
 	<img align="center" src="https://user-images.githubusercontent.com/71798858/231653835-7b03d8e0-dc53-497b-a77d-64ed19fb9144.png" width="100" height="100">
-	<img src="https://user-images.githubusercontent.com/71798858/231653490-00ab7e5f-c92b-416d-9ed8-7c1e8f85cae4.png" width="100" height="100">
-	<img src="https://user-images.githubusercontent.com/71798858/231653748-937fc647-8703-4e31-8fbe-93a88a596906.png" width="100" height="100">
+	<img align="center" src="https://user-images.githubusercontent.com/71798858/231653490-00ab7e5f-c92b-416d-9ed8-7c1e8f85cae4.png" width="100" height="100">
+	<img align="center" src="https://user-images.githubusercontent.com/71798858/231653748-937fc647-8703-4e31-8fbe-93a88a596906.png" width="100" height="100">
     
 </div>
 	
@@ -37,9 +37,9 @@
 	
 
 		
-<img src="https://user-images.githubusercontent.com/71798858/209199615-ab9d19a9-5801-450e-8f46-92efed0f77af.png" width="70" height="70">
+  <img align="center" src="https://user-images.githubusercontent.com/71798858/209199615-ab9d19a9-5801-450e-8f46-92efed0f77af.png" width="70" height="70">
 	<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/640px-IntelliJ_IDEA_Icon.svg.png" width="70" height="70">
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="70" height="70">
+	<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" width="70" height="70">
 	
 	
 <p align="left">Software: </p>
