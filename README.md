@@ -14,9 +14,9 @@
    <a href="#"/><img alt="Outlook" src="https://img.shields.io/badge/airinishbelsavflor@outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </p>
 
-<h3 align="Center">About me 👇🏻</h3> <br />  Mentor in the steam area helping to improve soft skills as well as technical skills. 
- <p>  Ambassador in Tecnolochicas where I teach young people how to design their own website, how to create mobile applications, basic knowledge of robotics and artificial intelligence.</p>
-<p>  I am passionate about data and the use of technology for decision making, so I always try to have time to learn something new related. </p>
+<h3 align="Center">About me 👇🏻</h3> <br /> <p align="center"> Mentor in the steam area helping to improve soft skills as well as technical skills. 
+  Ambassador in Tecnolochicas where I teach young people how to design their own website, how to create mobile applications, basic knowledge of robotics and artificial intelligence.
+ I am passionate about data and the use of technology for decision making, so I always try to have time to learn something new related. </p>
   <h3 align="center">👩🏻‍💻 I’m currently working on</h3>
   <img align="left" alt="img" width="300" src="https://www.capgemini.com/es-es/wp-content/uploads/sites/16/2018/04/capgemini_logo_color_rgb.png" >
   <p > <li>My role is Data Engineer, I use some programming languages: Python and R, besides using azure cloud.</p>
