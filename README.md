@@ -1,4 +1,4 @@
-<img src="https://www.redeszone.net/app/uploads-redeszone.net/2021/03/mejor-servicio-nube.jpg?x=480&y=375&quality=40"/>
+<img src="https://w7.pngwing.com/pngs/111/367/png-transparent-cloud-computing-technology-remote-backup-service-cloud-storage-cloud-computing-thumbnail.png"/>
 
 <p align="center" width="300">
   <img align="center" width="150" src="https://user-images.githubusercontent.com/71798858/208827535-3fd5d938-d658-48c2-bdd2-7acde521692d.png"/>
