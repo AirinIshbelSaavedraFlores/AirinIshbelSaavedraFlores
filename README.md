@@ -27,7 +27,7 @@
   
   <div align="left">
 	<img src="https://as1.ftcdn.net/v2/jpg/04/08/60/04/1000_F_408600439_xw9jqiw4CVk4aIgPSVbs36X4ckAemmra.jpg" width="100" height="100">
-	<img src="https://user-images.githubusercontent.com/71798858/209196844-751bda8b-35fc-4573-8d3b-ec5b8be5129c.png" width="100" height="100">
+	<img src="https://as2.ftcdn.net/v2/jpg/05/57/67/23/1000_F_557672362_kyxGCVD5m4iYaYitsBROR8RU5BA7eabX.jpg" width="100" height="100">
     
 </div>
 	
