@@ -26,8 +26,8 @@
   <h3 align="center">🤓 I’m currently learning</h3>
   
   <div align="left">
-	<img align="center" src="https://user-images.githubusercontent.com/71798858/231653835-7b03d8e0-dc53-497b-a77d-64ed19fb9144.png" width="100" height="100">
-	<img align="center" src="https://user-images.githubusercontent.com/71798858/231653490-00ab7e5f-c92b-416d-9ed8-7c1e8f85cae4.png" width="100" height="100">
+	<img align="center" width="150" src="https://user-images.githubusercontent.com/71798858/231653835-7b03d8e0-dc53-497b-a77d-64ed19fb9144.png" />
+	<img align="center" src="https://user-images.githubusercontent.com/71798858/231653490-00ab7e5f-c92b-416d-9ed8-7c1e8f85cae4.png" width="100" height="100"/>
 	<img align="center" src="https://user-images.githubusercontent.com/71798858/231653748-937fc647-8703-4e31-8fbe-93a88a596906.png" width="100" height="100">
     
 </div>
@@ -48,7 +48,7 @@
 	<img src="https://img2.freepng.es/20180328/hde/kisspng-programming-language-data-analysis-computer-progra-r-5abbf2c1918c67.3775356915222668175962.jpg" width="70" height="70">
 	
 <p align="left">Database: </p>
-	<img src="https://user-images.githubusercontent.com/71798858/231907147-8f24d8ec-cbe8-45b1-8f7d-233f132b5ef2.png" width="70" height="70">
+	<img src="https://user-images.githubusercontent.com/71798858/231907943-8b4a4a2f-cc07-4d50-8f5e-336d26362706.png" width="70" height="70">
 	<img src="https://user-images.githubusercontent.com/71798858/231907393-8ec880dd-170a-42ec-b345-b78711324eda.png" width="70" height="70">
 	<img src="https://user-images.githubusercontent.com/71798858/231907715-4bcb9943-ee41-4cb1-9c90-cfb0829b160b.png" width="70" height="70">
 	
