@@ -34,9 +34,9 @@
 </div>
 	<br />
   <h3 align="center"> 🖥️ Skills</h3>
+  <br />
+  <p align="center" width="300">
 	<p align="left">Editors and Operating Systems: </p>
-	
-
 		
   <img align="center" src="https://user-images.githubusercontent.com/71798858/209199615-ab9d19a9-5801-450e-8f46-92efed0f77af.png" width="70" height="70">
 	<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/640px-IntelliJ_IDEA_Icon.svg.png" width="70" height="70">
