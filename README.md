@@ -24,7 +24,7 @@
   
   
   <h3 align="center">🤓 I’m currently learning</h3>
-  
+  <br />
   <div align="left">
 	<p align="center" width="300">
 	<img align="center" width="100"  height="100" src="https://user-images.githubusercontent.com/71798858/231653835-7b03d8e0-dc53-497b-a77d-64ed19fb9144.png" />
@@ -32,7 +32,7 @@
 	<img align="center"  width="100" height="100" src="https://user-images.githubusercontent.com/71798858/231653748-937fc647-8703-4e31-8fbe-93a88a596906.png" />
     
 </div>
-	
+	<br />
   <h3 align="center"> 🖥️ Skills</h3>
 	<p align="left">Editors and Operating Systems: </p>
 	
