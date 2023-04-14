@@ -26,6 +26,7 @@
   <h3 align="center">🤓 I’m currently learning</h3>
   
   <div align="left">
+	<p align="center" width="300">
 	<img align="center" width="100"  height="100" src="https://user-images.githubusercontent.com/71798858/231653835-7b03d8e0-dc53-497b-a77d-64ed19fb9144.png" />
 	<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/71798858/231653490-00ab7e5f-c92b-416d-9ed8-7c1e8f85cae4.png"/>
 	<img align="center"  width="100" height="100" src="https://user-images.githubusercontent.com/71798858/231653748-937fc647-8703-4e31-8fbe-93a88a596906.png" />
