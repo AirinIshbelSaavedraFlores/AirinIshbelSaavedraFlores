@@ -35,7 +35,6 @@
 	<br />
   <h3 align="center"> 🖥️ Skills</h3>
   <br />
-  <p align="center" width="300">
 	<p align="center">Editors and Operating Systems: </p>
 	
 <div align="left">
