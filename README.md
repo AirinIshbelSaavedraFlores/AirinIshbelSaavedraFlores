@@ -37,6 +37,9 @@
   <br />
   <p align="center" width="300">
 	<p align="center">Editors and Operating Systems: </p>
+	
+<div align="left">
+<p align="center" width="300">
 		
   <img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/71798858/209199615-ab9d19a9-5801-450e-8f46-92efed0f77af.png" />
 	<img align="center" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/640px-IntelliJ_IDEA_Icon.svg.png" />
