@@ -44,17 +44,19 @@
 	<img align="center" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" />
 	
 	
-<p align="center">Software: </p>
+<h3 align="center">Software: </h3>
 	<div align="left">
 <p align="center" width="300">
 	<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/71798858/209206400-1af5213d-85a1-4ac7-af9e-ee524fe6da4e.png" />
 	<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/71798858/209206561-2bff6f00-dd8b-4fa0-a29c-d35af7879a3b.png" />
 	<img align="center" width="100" height="100" src="https://img2.freepng.es/20180328/hde/kisspng-programming-language-data-analysis-computer-progra-r-5abbf2c1918c67.3775356915222668175962.jpg" />
 	
-<p align="left">Database: </p>
-	<img src="https://user-images.githubusercontent.com/71798858/231907943-8b4a4a2f-cc07-4d50-8f5e-336d26362706.png" width="70" height="70">
-	<img src="https://user-images.githubusercontent.com/71798858/231907393-8ec880dd-170a-42ec-b345-b78711324eda.png" width="70" height="70">
-	<img src="https://user-images.githubusercontent.com/71798858/231907715-4bcb9943-ee41-4cb1-9c90-cfb0829b160b.png" width="70" height="70">
+<h3 align="left">Database: </h3>
+		<div align="left">
+<p align="center" width="300">
+	<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/71798858/231907943-8b4a4a2f-cc07-4d50-8f5e-336d26362706.png" />
+	<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/71798858/231907393-8ec880dd-170a-42ec-b345-b78711324eda.png" />
+	<img align="center" width="100" height="100"src="https://user-images.githubusercontent.com/71798858/231907715-4bcb9943-ee41-4cb1-9c90-cfb0829b160b.png" />
 	
 	
 <!--
