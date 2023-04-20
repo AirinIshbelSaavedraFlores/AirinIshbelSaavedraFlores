@@ -38,7 +38,7 @@
   <p align="center" width="300">
 	<p align="center">Editors and Operating Systems: </p>
 		
-  <img align="center" width="100" height="100"src="https://user-images.githubusercontent.com/71798858/209199615-ab9d19a9-5801-450e-8f46-92efed0f77af.png" />
+  <img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/71798858/209199615-ab9d19a9-5801-450e-8f46-92efed0f77af.png" />
 	<img align="center" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/640px-IntelliJ_IDEA_Icon.svg.png" />
 	<img align="center" width="100" height="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/1776px-Apache_NetBeans_Logo.svg.png" />
 	
