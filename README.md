@@ -58,6 +58,9 @@
 	<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/71798858/231907393-8ec880dd-170a-42ec-b345-b78711324eda.png" />
 	<img align="center" width="100" height="100"src="https://user-images.githubusercontent.com/71798858/231907715-4bcb9943-ee41-4cb1-9c90-cfb0829b160b.png" />
 	
+			<h3 aling="center">Certificates: </h3>
+		<a href="https://www.credly.com/badges/dd7a10db-05e8-458b-aad5-b729a8d86da0" target="_blank"> <img aling="center" width="90" height="90" src="https://user-images.githubusercontent.com/54164289/177465014-fa14b8ef-c216-4d9a-b857-3adb46626e47.png"> 
+	
 	
 <!--
 **AirinIshbelSaavedraFlores/AirinIshbelSaavedraFlores** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
