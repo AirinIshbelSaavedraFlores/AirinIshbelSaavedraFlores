@@ -56,7 +56,8 @@
 <p align="center" width="300">
 	<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/71798858/231907943-8b4a4a2f-cc07-4d50-8f5e-336d26362706.png" />
 	<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/71798858/231907393-8ec880dd-170a-42ec-b345-b78711324eda.png" />
-	<img align="center" width="100" height="100"src="https://user-images.githubusercontent.com/71798858/231907715-4bcb9943-ee41-4cb1-9c90-cfb0829b160b.png" />
+	<img align="center" width="100" height="100" src="https://user-images.githubusercontent.com/71798858/231907715-4bcb9943-ee41-4cb1-9c90-cfb0829b160b.png" />
+	<img align="center" width="100" height="100" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_mongo_icon_130383.png" />
 	
 <h3 align="center">Certificates: </h3>
 			<div align="left">
