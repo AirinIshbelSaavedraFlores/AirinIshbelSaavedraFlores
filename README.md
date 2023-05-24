@@ -1,6 +1,6 @@
 
 <p align="center" width="300">
-  <img align="center" width="150" src="https://user-images.githubusercontent.com/71798858/208827535-3fd5d938-d658-48c2-bdd2-7acde521692d.png"/>
+  <img align="center" width="150" src="https://media.licdn.com/dms/image/D5603AQFPL56tmaMUvQ/profile-displayphoto-shrink_800_800/0/1684885778183?e=1690416000&v=beta&t=6KdKKLDx7BRVR0g5tx4SHnMwfvteUpB-dUuDiHd4QgY"/>
   
 <h1 align="center"> I am <strong>Airin Ishbel</strong> 💁🏻‍♀️</h1>
   </p>
